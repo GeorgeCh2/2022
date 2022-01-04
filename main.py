@@ -42,6 +42,7 @@ def main(github_token, repo_name, issue_number, issue_label_name):
         issues = u.get_repo(MY_BLOG_REPO).get_issues(since=since, creator=me)
         comment_str = make_blog_issues_str(since, issues)
         comments_name = "my_blog"
+    print(comment_str)
     replace_readme_comments("README.md", comment_str, comments_name)
 
 
