@@ -35,7 +35,7 @@
 <!--START_SECTION:my_movie-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
-| [[爱情神话](https://movie.douban.com/subject/35376457)](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1004595427) | 2022-01-04 | 2022-01-04 | 
+| [爱情神话](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1004595427) | 2022-01-04 | 2022-01-04 | 
 
 <!--END_SECTION:my_movie-->
 
