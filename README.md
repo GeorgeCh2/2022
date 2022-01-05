@@ -26,7 +26,7 @@
 <!--START_SECTION:my_read-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
-| [《被讨厌的勇气》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1004835950) | 2022-01-04 | 2022-01-04 | 
+| [《被讨厌的勇气》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1004835950) | 2022-01-04 | 2022-01-05 | 
 
 <!--END_SECTION:my_read-->
 
