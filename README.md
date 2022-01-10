@@ -28,6 +28,7 @@
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
 | [《被讨厌的勇气》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1004835950) | 2022-01-04 | 2022-01-05 | 
+| [《坏血》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1008585670) | 2022-01-10 | 2022-01-10 | 
 
 <!--END_SECTION:my_read-->
 
