@@ -50,3 +50,9 @@
 | [老友记](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1004820194) | 2022-01-04 | 2022-01-04 | 
 
 <!--END_SECTION:my_drama-->
+
+## 追番
+
+<!--START_SECTION:my_bangumi-->
+
+<!--END_SECTION:my_bangumi-->

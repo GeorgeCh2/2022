@@ -10,6 +10,9 @@ DRAMA_LABEL_LIST = [
 WEEKLY_LABEL_LIST = [
     "Weekly",
 ]
+BANGUMI_LABEL_LIST = [
+    "Bangumi",
+]
 
 MY_BLOG_REPO = "GeorgeCh2/blog"
 GITHUB_README_COMMENTS = (
@@ -21,6 +24,7 @@ LABEL_DICT = {
     "Movie": {"label_list": MOVIE_LABEL_LIST, "comment_name": "my_movie"},
     "Book": {"label_list": BOOK_LABEL_LIST, "comment_name": "my_read"},
     "Drama": {"label_list": DRAMA_LABEL_LIST, "comment_name": "my_drama"},
+    "Bangumi": {"label_list": BANGUMI_LABEL_LIST, "comment_name": "my_bangumi"},
 }
 
 ##### BASE COMMENT TABLE ######
