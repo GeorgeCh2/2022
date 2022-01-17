@@ -54,5 +54,8 @@
 ## 追番
 
 <!--START_SECTION:my_bangumi-->
+| Name | Start | Update | 
+ | ---- | ---- | ---- | 
+| [鬼灭之刃 游郭篇](https://github.com/GeorgeCh2/2022/issues/6#issuecomment-1014166632) | 2022-01-17 | 2022-01-17 | 
 
 <!--END_SECTION:my_bangumi-->
