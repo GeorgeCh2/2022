@@ -12,7 +12,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [ 一个普通程序员的2021](https://github.com/GeorgeCh2/blog/issues/8) | 2022-01-05 | 2022-01-06 | 1 | 
+| [ 一个普通程序员的2021](https://github.com/GeorgeCh2/blog/issues/8) | 2022-01-05 | 2022-01-13 | 2 | 
 | [分布式唯一 ID](https://github.com/GeorgeCh2/blog/issues/7) | 2021-12-30 | 2022-01-01 | 0 | 
 | [自己动手编译一个HEIF图片转jpeg工具(Mac平台)](https://github.com/GeorgeCh2/blog/issues/6) | 2021-11-05 | 2022-01-01 | 0 | 
 | [谨慎使用 Arrays.asList() 和 Collections.singletonList()](https://github.com/GeorgeCh2/blog/issues/5) | 2021-11-05 | 2022-01-01 | 0 | 
