@@ -4,6 +4,9 @@
 ## 22年的数字
 
 <!--START_SECTION:my_number-->
+| Name | Status | Streak | Today? | 
+ | ---- | ---- | ---- | ---- |
+| [周记](https://github.com/GeorgeCh2/2022/issues/1) | 4 (周) | 1 | YES |
 
 <!--END_SECTION:my_number-->
 
