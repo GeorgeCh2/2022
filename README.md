@@ -63,6 +63,7 @@
 <!--START_SECTION:my_bangumi-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
-| [鬼灭之刃 游郭篇](https://github.com/GeorgeCh2/2022/issues/6#issuecomment-1014166632) | 2022-01-17 | 2022-01-17 | 
+| [鬼灭之刃 游郭篇](https://github.com/GeorgeCh2/2022/issues/6#issuecomment-1014166632) | 2022-01-17 | 2022-02-08 | 
+| [国王排名](https://github.com/GeorgeCh2/2022/issues/6#issuecomment-1032180446) | 2022-02-08 | 2022-02-08 | 
 
 <!--END_SECTION:my_bangumi-->
