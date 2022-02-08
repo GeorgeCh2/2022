@@ -31,7 +31,7 @@
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
 | [《被讨厌的勇气》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1004835950) | 2022-01-04 | 2022-01-05 | 
-| [《坏血》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1008585670) | 2022-01-10 | 2022-01-24 | 
+| [《坏血》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1008585670) | 2022-01-10 | 2022-02-08 | 
 | [《区块链实战》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1019690896) | 2022-01-24 | 2022-01-24 | 
 | [城市：重新发现市中心](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1028642370) | 2022-02-03 | 2022-02-03 | 
 
