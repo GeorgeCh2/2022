@@ -34,6 +34,7 @@
 | [《坏血》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1008585670) | 2022-01-10 | 2022-02-08 | 
 | [《区块链实战》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1019690896) | 2022-01-24 | 2022-02-26 | 
 | [《城市：重新发现市中心》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1028642370) | 2022-02-03 | 2022-02-11 | 
+| [《也许你该找个人聊聊》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1052012651) | 2022-02-26 | 2022-02-26 | 
 
 <!--END_SECTION:my_read-->
 
