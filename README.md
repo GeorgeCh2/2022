@@ -47,6 +47,7 @@
 | [挑战星期天](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1014160179) | 2022-01-17 | 2022-01-17 | 
 | [丘奇先生](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1019691620) | 2022-01-24 | 2022-02-08 | 
 | [南极料理人](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1038555300) | 2022-02-14 | 2022-02-14 | 
+| [奇迹·笨小孩](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1062668316) | 2022-03-09 | 2022-03-09 | 
 
 <!--END_SECTION:my_movie-->
 
