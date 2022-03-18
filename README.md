@@ -48,6 +48,7 @@
 | [丘奇先生](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1019691620) | 2022-01-24 | 2022-02-08 | 
 | [南极料理人](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1038555300) | 2022-02-14 | 2022-02-14 | 
 | [奇迹·笨小孩](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1062668316) | 2022-03-09 | 2022-03-09 | 
+| [蜘蛛侠·英雄无归](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1071937746) | 2022-03-18 | 2022-03-18 | 
 
 <!--END_SECTION:my_movie-->
 
