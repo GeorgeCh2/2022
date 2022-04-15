@@ -48,12 +48,14 @@ jobs:
           source venv/bin/activate
           python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_numbe '${{ github.event.issue.number }}' --issue_label_name '${{ github.event.issue.labels[0].name }}' 
 
+      - name: Run safe dir
+        run: |
+          git config --global --add safe.directory /github/workspace
+          
       - name: Push new README
-        uses: github-actions-x/commit@v2.6
-        with:
-          github-token: ${{ secrets.G_T }}
-          commit-message: "Replace README"
-          files: README.md
-          rebase: 'true'
-          name: GeorgeCh2 
-          email: georgechmr@gmail.com
+        run: |
+          git config --local user.name georgechou
+          git config --local user.email georgechmr@gmail.com
+          git add .
+          git commit -m "generated readme" || echo "no need to commit "
+          git push || echo "no file change"
