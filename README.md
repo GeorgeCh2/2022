@@ -51,7 +51,9 @@
 | [蜘蛛侠·英雄无归](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1071937746) | 2022-03-18 | 2022-03-18 | 
 | [青春变形记](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1074826864) | 2022-03-22 | 2022-03-22 | 
 | [微不足道](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1089935922) | 2022-04-06 | 2022-04-06 | 
-| [国外理查德](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1089937570) | 2022-04-06 | 2022-04-06 | 
+| [国王理查德](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1089937570) | 2022-04-06 | 2022-04-15 | 
+| [神奇动物：邓布利多之谜](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1099997285) | 2022-04-15 | 2022-04-15 | 
+| [朗读者](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1101008336) | 2022-04-18 | 2022-04-18 | 
 
 <!--END_SECTION:my_movie-->
 
