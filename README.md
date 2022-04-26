@@ -54,6 +54,7 @@
 | [国王理查德](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1089937570) | 2022-04-06 | 2022-04-15 | 
 | [神奇动物：邓布利多之谜](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1099997285) | 2022-04-15 | 2022-04-15 | 
 | [朗读者](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1101008336) | 2022-04-18 | 2022-04-18 | 
+| [这个杀手不太冷静](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1109422636) | 2022-04-26 | 2022-04-26 | 
 
 <!--END_SECTION:my_movie-->
 
