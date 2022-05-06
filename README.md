@@ -69,7 +69,7 @@
 | [人世间](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1068789156) | 2022-03-16 | 2022-03-16 | 
 | [月光骑士](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1118646414) | 2022-05-05 | 2022-05-06 | 
 | [流人](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1118646793) | 2022-05-05 | 2022-05-06 | 
-| [人生切割术](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1118646945) | 2022-05-05 | 2022-05-05 | 
+| [人生切割术](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1118646945) | 2022-05-05 | 2022-05-06 | 
 
 <!--END_SECTION:my_drama-->
 
