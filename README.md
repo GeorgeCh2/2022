@@ -70,6 +70,7 @@
 | [月光骑士](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1118646414) | 2022-05-05 | 2022-05-06 | 
 | [流人](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1118646793) | 2022-05-05 | 2022-05-06 | 
 | [人生切割术](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1118646945) | 2022-05-05 | 2022-05-06 | 
+| [布莱克书店](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1120588331) | 2022-05-09 | 2022-05-09 | 
 
 <!--END_SECTION:my_drama-->
 
