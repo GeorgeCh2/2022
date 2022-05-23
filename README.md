@@ -55,6 +55,7 @@
 | [神奇动物：邓布利多之谜](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1099997285) | 2022-04-15 | 2022-04-15 | 
 | [朗读者](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1101008336) | 2022-04-18 | 2022-04-18 | 
 | [这个杀手不太冷静](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1109422636) | 2022-04-26 | 2022-04-26 | 
+| [瞬息全宇宙](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1134250366) | 2022-05-23 | 2022-05-23 | 
 
 <!--END_SECTION:my_movie-->
 
