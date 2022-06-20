@@ -73,6 +73,7 @@
 | [人生切割术](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1118646945) | 2022-05-05 | 2022-05-06 | 
 | [布莱克书店](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1120588331) | 2022-05-09 | 2022-05-09 | 
 | [爱，死亡和机器人 第三季](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1134252143) | 2022-05-23 | 2022-05-23 | 
+| [权利的游戏](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1160228776) | 2022-06-20 | 2022-06-20 | 
 
 <!--END_SECTION:my_drama-->
 
