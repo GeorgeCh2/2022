@@ -35,6 +35,7 @@
 | [《也许你该找个人聊聊》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1052012651) | 2022-02-26 | 2022-03-11 | 
 | [《厨房里的人类学家》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1066428875) | 2022-03-14 | 2022-03-17 | 
 | [《置身事内：中国政府与经济发展》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1069825114) | 2022-03-17 | 2022-03-17 | 
+| [《谁动了我的奶酪》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1173542122) | 2022-07-04 | 2022-07-04 | 
 
 <!--END_SECTION:my_read-->
 
