@@ -58,6 +58,8 @@
 | [朗读者](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1101008336) | 2022-04-18 | 2022-04-18 | 
 | [这个杀手不太冷静](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1109422636) | 2022-04-26 | 2022-04-26 | 
 | [瞬息全宇宙](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1134250366) | 2022-05-23 | 2022-05-23 | 
+| [秘密特工](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1160227598) | 2022-06-20 | 2022-06-20 | 
+| [外太空的莫扎特](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1187093113) | 2022-07-18 | 2022-07-18 | 
 
 <!--END_SECTION:my_movie-->
 
