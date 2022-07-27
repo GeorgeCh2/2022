@@ -80,6 +80,8 @@
 | [权利的游戏](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1160228776) | 2022-06-20 | 2022-06-20 | 
 | [黑袍纠察队-第三季](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1196348793) | 2022-07-27 | 2022-07-27 | 
 | [熊家餐馆-第一季](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1196350079) | 2022-07-27 | 2022-07-27 | 
+| [终极名单](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1196350798) | 2022-07-27 | 2022-07-27 | 
+| [黑鸟](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1196351657) | 2022-07-27 | 2022-07-27 | 
 
 <!--END_SECTION:my_drama-->
 
