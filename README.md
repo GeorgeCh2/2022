@@ -82,6 +82,7 @@
 | [熊家餐馆-第一季](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1196350079) | 2022-07-27 | 2022-07-27 | 
 | [终极名单](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1196350798) | 2022-07-27 | 2022-07-27 | 
 | [黑鸟](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1196351657) | 2022-07-27 | 2022-07-27 | 
+| [非常律师禹英禑](https://github.com/GeorgeCh2/2022/issues/5#issuecomment-1196352806) | 2022-07-27 | 2022-07-27 | 
 
 <!--END_SECTION:my_drama-->
 
