@@ -60,6 +60,9 @@
 | [瞬息全宇宙](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1134250366) | 2022-05-23 | 2022-05-23 | 
 | [秘密特工](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1160227598) | 2022-06-20 | 2022-06-20 | 
 | [外太空的莫扎特](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1187093113) | 2022-07-18 | 2022-07-18 | 
+| [犯罪都市2](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1200626760) | 2022-08-01 | 2022-08-01 | 
+| [独行月球](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1200627156) | 2022-08-01 | 2022-08-01 | 
+| [愤怒的黄牛](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1200627525) | 2022-08-01 | 2022-08-01 | 
 
 <!--END_SECTION:my_movie-->
 
