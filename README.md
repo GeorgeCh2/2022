@@ -63,6 +63,8 @@
 | [犯罪都市2](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1200626760) | 2022-08-01 | 2022-08-01 | 
 | [独行月球](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1200627156) | 2022-08-01 | 2022-08-01 | 
 | [愤怒的黄牛](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1200627525) | 2022-08-01 | 2022-08-01 | 
+| [分手的决心](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1214776541) | 2022-08-15 | 2022-08-15 | 
+| [加勒比海盗](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1214777469) | 2022-08-15 | 2022-08-15 | 
 
 <!--END_SECTION:my_movie-->
 
