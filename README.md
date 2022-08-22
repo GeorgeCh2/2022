@@ -37,6 +37,7 @@
 | [《置身事内：中国政府与经济发展》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1069825114) | 2022-03-17 | 2022-03-17 | 
 | [《谁动了我的奶酪》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1173542122) | 2022-07-04 | 2022-07-04 | 
 | [《上班记》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1175827702) | 2022-07-06 | 2022-07-06 | 
+| [《城乡中国》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1222135875) | 2022-08-22 | 2022-08-22 | 
 
 <!--END_SECTION:my_read-->
 
