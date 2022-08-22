@@ -67,6 +67,7 @@
 | [分手的决心](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1214776541) | 2022-08-15 | 2022-08-15 | 
 | [加勒比海盗](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1214777469) | 2022-08-15 | 2022-08-15 | 
 | [隐入尘烟](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1217453873) | 2022-08-17 | 2022-08-17 | 
+| [必胜球探](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1222139167) | 2022-08-22 | 2022-08-22 | 
 
 <!--END_SECTION:my_movie-->
 
