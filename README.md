@@ -71,6 +71,9 @@
 | [隐入尘烟](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1217453873) | 2022-08-17 | 2022-08-17 | 
 | [必胜球探](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1222139167) | 2022-08-22 | 2022-08-22 | 
 | [壮志凌云：独行侠](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1238895140) | 2022-09-07 | 2022-09-07 | 
+| [神探大战](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1273984303) | 2022-10-11 | 2022-10-11 | 
+| [子弹列车](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1273987656) | 2022-10-11 | 2022-10-11 | 
+| [有史以来最棒的啤酒运送](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1273988217) | 2022-10-11 | 2022-10-11 | 
 
 <!--END_SECTION:my_movie-->
 
