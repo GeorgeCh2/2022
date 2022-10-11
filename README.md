@@ -38,6 +38,8 @@
 | [《谁动了我的奶酪》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1173542122) | 2022-07-04 | 2022-07-04 | 
 | [《上班记》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1175827702) | 2022-07-06 | 2022-07-06 | 
 | [《城乡中国》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1222135875) | 2022-08-22 | 2022-08-22 | 
+| [《下班后开始新的一天》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1258034565) | 2022-09-26 | 2022-09-26 | 
+| [《一地鸡毛》](https://github.com/GeorgeCh2/2022/issues/3#issuecomment-1273983233) | 2022-10-11 | 2022-10-11 | 
 
 <!--END_SECTION:my_read-->
 
