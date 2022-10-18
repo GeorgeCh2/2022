@@ -75,6 +75,7 @@
 | [子弹列车](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1273987656) | 2022-10-11 | 2022-10-11 | 
 | [有史以来最棒的啤酒运送](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1273988217) | 2022-10-11 | 2022-10-11 | 
 | [坠落](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1273988705) | 2022-10-11 | 2022-10-11 | 
+| [狩猎](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1281868704) | 2022-10-18 | 2022-10-18 | 
 
 <!--END_SECTION:my_movie-->
 
