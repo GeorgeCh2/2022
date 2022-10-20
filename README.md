@@ -6,7 +6,7 @@
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [周记](https://github.com/GeorgeCh2/2022/issues/1) | 44 (周) | 1 | NO |
+| [周记](https://github.com/GeorgeCh2/2022/issues/1) | 44 (周) | 0 | NO |
 
 <!--END_SECTION:my_number-->
 
