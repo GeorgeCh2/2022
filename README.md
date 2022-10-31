@@ -77,6 +77,7 @@
 | [坠落](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1273988705) | 2022-10-11 | 2022-10-11 | 
 | [狩猎](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1281868704) | 2022-10-18 | 2022-10-18 | 
 | [特工](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1296553536) | 2022-10-31 | 2022-10-31 | 
+| [西线无战事](https://github.com/GeorgeCh2/2022/issues/2#issuecomment-1296555052) | 2022-10-31 | 2022-10-31 | 
 
 <!--END_SECTION:my_movie-->
 
